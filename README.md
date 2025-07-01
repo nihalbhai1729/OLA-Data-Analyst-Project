@@ -31,7 +31,7 @@ Data Aggregation
 - Calculated daily ride volumes and total ride distances.
 - Computed revenue per payment method.
 
-SQL Questions:
+SQL Queries Performed:
 
 - Retrieve all successful bookings:
 - Find the average ride distance for each vehicle type:
